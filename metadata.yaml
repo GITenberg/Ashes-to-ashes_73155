@@ -1,0 +1,35 @@
+_repo: Ashes-to-ashes_73155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ostrander, Isabel
+    aliases:
+    - Chipperfield, Robert Orr
+    - Grant, Douglas
+    - Fox, David
+    - Ostrander, Isabel Egenton
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '33851'
+    url: http://www.gutenberg.org/2009/agents/33851
+    wikipedia: https://en.wikipedia.org/wiki/Isabel_Ostrander
+description: ''
+gutenberg_issued: '2024-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73155'
+  lccn: '19018375'
+language: en
+production_note: Brian Raiter
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murderers -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Thrillers (Fiction)'
+- !lcc 'PS'
+- GITenberg
+title: Ashes to ashes
+url: http://www.gutenberg.org/ebooks/73155
